@@ -16,7 +16,7 @@ machine learning and backend web development.
 - **Web Development:**
   - React
   - Typescript
-- **Framworks:**
+- **Frameworks:**
   - Spring Boot
   - Mockito & JUnit
 
