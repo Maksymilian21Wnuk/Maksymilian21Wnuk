@@ -1,36 +1,22 @@
 ### Hello!
 Welcome to my github profile! 
-My name is Maksymilian, I am student of University of Wrocław.
-I am computer science enthusiast. I am interested
+My name is Maksymilian, I am a student of University of Wrocław.
+I am a computer science enthusiast, interested
 mostly in operating systems, low-level programming,
 machine learning and backend web development.
 ## Tools I Use
 
-- **Operating System:** Linux, (prefer to not use) Windows
+- **Operating System:** Linux based os (fedora and mint)
 - **Version Control:** Git
 - **Programming Languages:**
   - C
   - C++
   - Java
   - Python
-- **Web Development:**
-  - React
+  - Rust
   - Typescript
+
 - **Frameworks:**
   - Spring Boot
   - Mockito & JUnit
-
-<!--
-**Maksymilian21Wnuk/Maksymilian21Wnuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - React
